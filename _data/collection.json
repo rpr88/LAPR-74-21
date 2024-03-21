@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Latin American Press Review, Program 1974-21" ] },
+    "summary": { "en": [ "The following segment summaries were generated using ChatGPT and not reviewed for accuracy: The Latin American Press Review provides a detailed analysis of recent events in Latin America, focusing primarily on Chile, Brazil, Guatemala, and Argentina. In Chile, the report discusses the tense political situation marked by strikes, scarcity of food, and political maneuvering. The government, led by President Salvador Allende, faces opposition from right-wing factions and pressure from the left for more revolutionary reforms. Despite challenges, Allende's popularity among the working class seems to be growing. The report also addresses accusations of torture by the Brazilian government, reactions to France's nuclear testing, and shifts in the perception of Juan Domingo Perón in Argentina by the United States. An interview with Professor David Barkin of Lehman College City University of New York further examines the situation in Chile, emphasizing Allende's political acumen and the unlikelihood of civil war despite rumors and tensions." ] },
+    "items": [
+    ]
+}
