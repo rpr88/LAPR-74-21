@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-0-0-17-06.json",
-            "label": {
-              "none": ["0:0:17:06"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-0-0-26-07.json",
             "label": {
               "none": ["0:0:26:07"]
