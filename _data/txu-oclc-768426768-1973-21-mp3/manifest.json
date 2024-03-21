@@ -13,7 +13,7 @@
     ],
     "provider": [
       {
-        "id": "https://www.lib.utexas.edu/about/locations/benson",
+        "id": "https://llilasbenson.utexas.edu/",
         "type": "Agent",
         "label": { "en": [ "Benson Latin American Collection" ] }
       }
