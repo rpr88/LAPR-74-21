@@ -15,7 +15,7 @@
       {
         "id": "https://archive.org/",
         "type": "Agent",
-        "label": { "en": [ "Benson Latin American Collection" ] }
+        "label": { "en": [ "Internet Archive" ] }
       }
     ],
     "items": [
