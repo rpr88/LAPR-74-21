@@ -1,0 +1,563 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2.json",
+  "type": "AnnotationPage",
+  "label": "Speaker 2",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The London weekly, Latin America, reports from Chile that for the first time in two years, the right-wing Christian Democrats have been talking to the government instead of engaging in a mutual slinging match. The right-wing leadership of the Christian Democratic party agreed to talks only after an urgent warning from the church that civil war could be imminent. This followed last week's assassination of President Salvador Allende Naval aide-de-camp, Captain Arturu Araya, and widespread sabotage upon the declaration of another transportation owner strike similar to last October's, although bus and taxi drivers did not immediately join in the stoppage, except in a few areas.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Araya",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.0,54.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "On Monday, however, the political temperature dropped several degrees when talks between the government and opposition got underway as a result of the church appeal. But although the imminent threat of civil war has receded, many observers feel the country may have passed the point at which compromise is possible. On both sides, there are powerful groups and individuals strongly opposed even to seeking one.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "75.0,96.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Accusations that the Brazilian government has been using torture as a part of its official policy of repression have been common from as long ago as 1968. These allegations have, in the course of time, become more detailed, and the lists of tortured ever longer. In 1970, Brazilian president Emílio Médici admitted that there had been cases of torture, but he denied that this was an official policy and promised that the torturers would be brought to justice. However, in the intervening years, the government and its agencies overseas have taken up an increasingly rigid stand and have denied that there have been any cases at all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Médici",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "government censorship",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "136.0,170.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Latin America says that in the second week of July, Brazil's National Council of Bishops, referring to a decision by a military tribunal, listed a number of other cases of torture, including an incident in which four priests were forcibly removed from the house of a bishop by the military police, who then proceeded to torture them. The accusations by the Council of Bishops happened to coincide with the publication by the New York Council on Religion and International Affairs of allegations by a former advisor to Senator George McGovern that there had been more than 1000 political prisoners in Brazil and that probably between 40 and 120 have been tortured to death.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "government censorship",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202.0,237.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Three persons representing 20 French political groups and trade unions delivered a note to President George Pompidou asking that an end be put immediately to the series of tests. The daily Le Monde in an editorial maintained that the government cannot ignore that psychologically, its nuclear politics are a failure, provoking indignation from other countries without attaining enthusiasm from the French people. In New York, Secretary General of the United Nations, Kurt Waldheim deplored the French explosion at Moruroa and asked all those interested to abide by the UN rules prohibiting nuclear testing in the atmosphere.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "France",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "329.0,361.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The Santiago weekly, Chile Hoy, further states, \"France insists on controlling the zones near Moruroa, which they claim to be an extension of their sea territory, but the action of expelling ships within a radius of 72 miles is beyond the limits of their sovereignty.\"Before the wave of protesting was begun, it was enough for a nuclear country to announce their testing plans so the danger zone could be avoided by ships. Now different foreign ships have decided to stay within this danger zone as a means of protest.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "France",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "388.0,414.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The fact that violence is increasing was demonstrated dramatically one week in June when one landowner, two farm administrators and a rightist congressman were murdered all by people with no clear ties to organized political groups. A wealthy landowner, businessman and former president of the US sponsored Penny Foundation was killed by several peasants whose land he was trying to take over. Congressman Hector Soles Juarez, a renowned right-winger was killed after two unsuccessful assassination attempts, but no group on the left has claimed responsibility for the act.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Violence",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Guatemala",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "454.0,486.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This tactic has been most apparent in the so-called Cleanup Operations carried out without obvious provocation in different parts of the country, but primarily in Guatemala City. These cleanup maneuvers are ostensibly designed to rid the country of common criminals, and as the elections approach, are increasingly focused on combating marijuana, an issue which the government is trying to use to distract attention from these serious problems facing the country.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Guatemala",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "505.0,528.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "These developments make it clear that the government no longer feels obliged to maintain a liberal political image and that the election will bring no moratorium on official and semi-official violence. Thus, any lull in the government's undeclared war must be seen as tactical and temporary rather than as the beginning of peace, tranquility, and stability. This critical view of the undeclared war in Guatemala is presented by the Guatemala Report.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Political Violence",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Guatemala",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "578.0,103.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Inflation in Brazil was approaching 100% a year when the armed forces threw out a civilian administration in 1964. The military regime opened the country's doors to foreign investment, held down workers' salaries, outlawed strikes, and forced people to pay taxes. As a result, inflation last year was only 14%. This year, the government says it will be 12%, the lowest in two decades.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "623.0,645.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "While top Brazilian executives are reported to be bringing in annual salaries of $200,000 or more, sugar cane cutters in the Northeastern states get a dollar for every ton of cane that they can chop, stack and bundle. It takes a strong worker nearly an entire day to cut a ton. A group of Roman Catholic bishops charged recently that Brazil's present economic system does not help Brazilian society, but only the profit interests of foreign companies and their associates in our country. The clergyman said the only only solution is social ownership of the means of production.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "686.0,716.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The government acknowledges that workers pay has not increased as fast as the economy as a whole, but they argue this is the price of controlling inflation. About the lopsided distribution of income, Brazil's finance minister said, \"Nobody is satisfied with the way income is distributed in Brazil, but if some country had discovered a better way to distribute income, it would've been put in action.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "716.0,736.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-2-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The new position of the United States comes as no surprise to leftist elements in Argentina and throughout Latin America who have bemoaned Perón's moves toward the right for many weeks. In reorganizing his political movement at home, Perón seems to have embraced conservative elements within his party by his appointments of two right-wing labor leaders to important positions within the party.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Argentina",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Perón",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "774.0,795.0"
+        }
+      }
+    }
+  ]
+}
