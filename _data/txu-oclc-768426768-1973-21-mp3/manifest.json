@@ -20,14 +20,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-speaker.json",
-            "label": {
-              "none": ["Speaker"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-spaker-2.json",
             "label": {
               "none": ["Spaker 2"]
