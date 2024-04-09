@@ -1,0 +1,1102 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin.json",
+  "type": "AnnotationPage",
+  "label": "Dr. Barkin",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's hard, but in a word I guess we could say it's confused. The present situation is one of a great deal of upset of strikes throughout the country, of great deal of scarcity of food, and of a great deal of political maneuvering. But to understand what's going on, we cannot simply stay in the events of the month of July or June, but we have to go back to the month of October when we had the large strike, which lasted almost a month and in which the truck drivers began, who tried to force the Allende the government to go easy on some of its policies of changing the economic structure so that the people who were working in the factories and in the fields could improve their living standards.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.0,15.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Back in October, the strikes by the truck drivers, who also are the truck owners, forced a confrontation in which Allende came out winning. By Allende I mean the Popular Unity government, which was legally elected as the government of Chile back in 1970 and has a six-year term of office.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "15.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now, that situation, which happened in October, created a large economic upset for the country. $200 million is the estimated cost of that situation because of lost exports and economic upset in the country.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.0,16.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "During that period of time, as I said, Allende came out winning because what happened was the government came out with more support among the working classes who realized that the truck owners and other small business people and large business people, of course, were very much up in arms against the interests of the working classes, against the interests of the peasants, because these groups of people represented interests which were not directed towards satisfying basic housing, medical care, educational and food needs for the mass of the Chilean people. As a result, you had a situation in which Allende won, basically. He won, he was able to reestablish a balance of power with Salvador Allende the president at the political helm.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "16.0,17.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now in June, you had another series of events which culminated in a strike by one group of people within the copper mines, the administrative workers. The administrative workers within the copper mines were arguing that they should get an escudo and one half increase in pay for every escudo, that all the other workers in Chile got as a result of inflation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "17.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now, this was an inadmissible situation for the Chilean government because the copper workers were already the best paid workers in Chile. As a result, there was a huge and lengthy and very costly copper strike, which took place in Chile. That was resolved, but it was resolved, again, at the cost of great deal of political turmoil, which involved Allende taking very strong measures.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "17.0,18.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now, during the past six or seven weeks, the situation has gotten worse in the sense that the right has correctly seen itself as being threatened by the growing strength that Allende has shown among the working classes, and has therefore had to take much more severe measures to try to control or to get back some of the power which led to the assassination of Allende's military aide-de-camp, the Navy man who was shot in a very, very brutal fashion, machine-gunned in his home one evening several weeks ago.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "18.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now, what that has forced Allende to do is again, to take stronger measures, and has forced, again, a heightening of tension. But has at the same time made it quite obvious to large segments of the Chilean population that there are conflicts, very severe conflicts of interest between what the right is trying to do and what the Popular Unity government is trying to do. But the Popular Unity government in turn finds pressures from the left, which is asking that Allende go even further in taking over enterprises which are owned by the people who are creating the civil war.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18.0,19.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That question's very hard to answer, because obviously... The answer Chileans give is clearly yes. Although the people who are involved in this are not carrying cards which say, \"I'm a member of the CIA\" or \"I work for ITT.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19.0,204.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What happens is that there's a great deal of intervention in a number of different fronts. The most obvious of them being that the right wing still finds economic support, the right groups. Not only Patria y Libertad or Father Land and Freedom Group, which is the group that's responsible for the assassination of Allende's aide-de-camp, but also for the centrist groups or the so-called centrist groups, the Christian Democratic groups, which are now the opposition party in Chile.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "204.0,20.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "These groups find, through their normal economic ties with America's largest multinational corporations, that it is easy to find economic and political support, and as is quite clear from an analysis of the American press, the American press is still trying to mobilize American opinion against attempts to give the Chilean working classes a decorative standard of living by claiming that this is going against American interests.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.0,21.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What it seems to me is that we have to try to understand that it's different groups of Americans who have interests in the welfare of different parts of the Chilean population, and that our support must be for the working people, the people and the peasants who are trying to improve their standard of living. But it seems clear that at least economic support is coming from the United States to help in these counter-governmental efforts.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "21.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "On the international front, Chile is finding a great deal of support in most international organizations from groups that are not controlled by the United States government.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "21.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That is a very important question to answer because in it lies the possibility of understanding three more years of Popular Unity government. I think that contrary to hurting Popular Unity and Allende's popularity, recent events have strengthened it. We have the March 4th elections as testimony to that, where there was a very, very substantial increase in voting and in voting for the Popular Unity government throughout broad sectors of the economy, including the famous Conservative Women. And I say famous because women are supposed to be, in Latin America, traditionally conservative and traditional.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Women",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Women in Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "22.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As a result, the women's vote is taken as a particularly strong vote of confidence in Allende. What happens is I think that the women realize more than ever how it is that prices and supplies are being manipulated in the grocery stores for the benefit of certain people, and are going through a process of trying to understand the economic situation, and realize that they have to support certain actions.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Women",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Women in Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.0,23.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interesting thing, since March, I think his popularity has grown even more with the recent events in the assassination, the copper strike and things like that, so that the right and the Democratic Christian groups have been forced to accelerate their own activities because they feel menaced by the growing solidarity within the working classes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "23.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "If anything, the interesting thing about the working classes and the polarization and Allende's popularity has been their growing radicalization and their demands for more stringent and stronger moves by the government than the government feels it can politically go through right now. But in electoral terms and in terms of the future, I think that yes, his popularity has grown.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23.0,24.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I just tried to indicate that yes, the Allende government will survive. The Allende government will survive because Salvador Allende has demonstrated himself to be a magnificent politician, an extraordinarily agile person in terms of manipulating and in terms of playing a very delicate political game, which is heightening, which is becoming more serious, and the stakes are getting higher. But the threats and the stakes are higher also.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "24.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Right now, Allende has successfully resolved the conflicts between the extreme right and the extreme left by playing a centrist ground. As a result, he's getting attacks from all sides. He's trying a dialogue with the Christian Democrats, which I think is going to have very problematic results. None of these attempts in the past have worked, and I don't think they'll work now, but we'll see.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.0,25.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But let me just close by saying in the future, I think that there's a great deal of reason to be optimistic because what's happened is the working classes, the majority of the people are beginning to take their own dynamic in trying to control their own lives and in demanding voices, which during past years have been spoken for by the leaders of the country.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "25.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As a result, you have a situation in which the industrial and the agricultural sectors of the economy are beginning to demand participation in decision-making in an autonomous way. And if nothing else, that's perhaps the most exciting thing that's in the future for Chile.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25.0,26.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think those rumors are very convenient fabrications and misunderstandings by different groups, both within Chile, and especially in the American press. The notion of civil war itself is a very difficult notion in a country with a president who's trying to lead the country on a transition through a peaceful way and through the political process.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The political game in Chile is a very, very complicated one. And the stakes are high, and Allende's success is the reason why the right has been forced to take some of the violent actions that it's taking, and why the economic sabotage, which is going on throughout the economy is taking place.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The threats from the left are very clear, and I think that there's an attempt by the left, by some elements within the extreme left to also suggest that the country is on the brink of civil war.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "26.0,27.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But civil war would require a different sort of display of forces and a different sort of availability of arms and distribution of those arms, than is currently available in Chile. The armed forces are very powerful, and the United States has equipped them very well during the past three years. And they have up to now been very effective in controlling the distribution of arms and have recently been collecting a great number of loose arms, which they find among different groups in both the right and the left.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "27.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-dr--barkin-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The armed forces, if it came to a showdown, would probably support the Christian Democratic groups, but I don't think that that kind of showdown is in the offing, and I don't think that civil war is the way in which the political problems of Chile are going to be resolved.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "27.0,28.0"
+        }
+      }
+    }
+  ]
+}
