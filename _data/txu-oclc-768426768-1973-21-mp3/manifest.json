@@ -16,16 +16,6 @@
         "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1738.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1.json",
-            "label": {
-              "none": ["Speaker 1"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/paintings",
