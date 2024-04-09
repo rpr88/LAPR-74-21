@@ -1,0 +1,962 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpr88.github.io/LAPR-74-21/annotations/txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1.json",
+  "type": "AnnotationPage",
+  "label": "Speaker 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Welcome to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America, as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Latin American Press Review",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introduction",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,20.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "By the end of last week, the situation looked exceptionally grave. Although the Christian Democrats remained deaf to Allende's desperate appeals for talks, both left and right pinned the guilt for Araya's assassination on opposing extremists. Though the right seemed to have a much more clear-cut motive to provoke a military coup.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "54.0,75.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Most socialists and the revolutionary left feel that the working class is becoming imbued with a really revolutionary spirit. They cite the occupation of factories, the development of local workers councils, and they are not willing to lose it. The opposition, on the other hand, seems to be preparing a last ditch stand to defend Chile's traditional institutions. Allende, believing that everyone would lose in the event of a confrontation and that the first to be lost would be such revolutionary reforms as he has been able to achieve looks increasingly isolated in the middle. This report on Chile from Latin America.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "96.0,136.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "With the imposition of rigid press censorship, it became increasingly difficult to substantiate allegations of torture that were made. The one body within Brazil that has from time to time taken issue with the government has been the church, but until recently, its complaints were mainly directed against torture perpetrated on members of the clergy. Earlier this year, however, the church began to take up a much more militant attitude, particularly since the death of a student at the hands of the police.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "government censorship",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "170.0,202.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In the light of these accusations, it may be significant that three police officers are now to be tried in Rio de Janeiro for torturing two prisoners. One of the officers is already well-known as the man who, after conducting a television campaign against delinquency and drug addiction, was reputed to have allowed the escape of a drug peddler for a bribe of $30,000. The indictment of the three policemen states that the two prisoners were submitted to all kinds of torture in an attempt to force them to admit their complicity in a murder that took place in June 1972.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "government censorship",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "237.0,274.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reaction to current nuclear testings by France was published this week by Mexico's Daily Excelsior. Peru broke diplomatic relations with France in protest of its atomic explosions. It expressed a desire for similar actions by other American countries. The French government protested, announcing that the tests could not be halted.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Peru",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "France",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "304.0,329.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But the rightest French press, Le Figaro, wrote, \"It is doubtful that the New Zealanders and Australians can legitimately express an opinion concerning French defense needs because European security is none of their business.\" In Lima, Peruvian officials announced the rupture of diplomatic relations with France. They're confident, however, that relations with France will resume when France ceases the nuclear testing.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "France",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Australia",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "New Zealand",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "361.0,388.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The fact of undeclared war in Guatemala is being openly admitted. Despite the grand public relations campaign being waged on his behalf. General Laugerud, the official presidential candidate, was recently forced to admit that everyone in Guatemala knows that the country is in an undeclared state of war, which began 13 years ago. The violence is increasing and the government and its handpicked candidate for the 1974 election had been trying to use that violence as a political issue by claiming that it is a part of a plot to discredit the government in the pre-electoral period.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Guatemala",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Political Violence",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "388.0,454.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Guatemala Report continues saying, \"During the past year the government's main overt efforts to control the situation aside from direct armed confrontations have been aimed at maintaining a continuous high level of fear in the population and a constant awareness of the strength of the repressive forces.\" ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Guatemala",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "486.0,505.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In recent months, there are indications that the government, unable to totally pacify the country, may now be trying to use political violence and organized subversion as an issue in the election. According to Laugerud, the government cannot control the situation because it is fighting organized violence, manifested in the repetition of similar acts all over the country in which landowners, farm administrators, military commissioners, and policemen have been killed. Several army officers have recently acknowledged that despite massive pacification efforts, the problem of political violence and concretely of the guerrilla, has not been liquidated. Despite the general level of censorship, the press has also reported the existence of armed groups in the northern part of the country.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Political Violence",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Guatemala",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "528.0,578.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The Miami Herald reports that the Brazilian government has been telling its consumers recently that they are the ones who must take action to stop the inflation which has plagued this country for many years. In government-sponsored newspaper ads, housewives are told to shop around and think before they buy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "103.0,623.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Also, Brazil's gross national product has increased by more than 9% annually for the past six years, to around $50 billion. Exports for this year are forecast at a record $5.3 billion with 40% coming from manufactured goods. However, critics of the regime point out that most Brazilians have not benefited from the economic growth. Per-person income in Brazil is around $500 a year. In the United States, it is about $4,000. Millions of farmers in the country's vast interior still live mainly on what they grow and barter. They do not participate directly in the money economy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brazil",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "645.0,686.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In striking contrast to original estimates of Perón, an almost magical change of heart has led the United States to view Perón as Argentina's best hope. The New York Times comments that, \"In a reversal of attitudes, the United States government has come to view Juan Domingo Perón not as a menace, but as Argentina's best hope for political stability and economic progress.\" ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Argentina",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Perón",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "736.0,760.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This reappraisal was advanced in interviews by top officials of the State Department involved with South American affairs, and was confirmed by the Argentinian Embassy as its understanding of current United States policy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Argentina",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "760.0,774.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Meanwhile, members of the Perónist Youth Movement who are responsible for mass mobilizing in support of Perón are angry because they were not consulted in the recent restructuring of the party. According to Latin America, Perón himself doubtless realizes that he is placing a tremendous strain on his political basis. They have long comforted themselves with the belief that he was quite different from men like José Rucci, leader of the General Labor Confederation. And last November, Perón played up to this belief, murmuring to the youth leaders that he knew who the traitors were.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Argentina",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Perón",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "795.0,829.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now the revolutionaries are having to fall back on a new formulation, which is that Perón is surrounded by reactionaries who keep him a virtual prisoner. The preceding article by Latin America.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Perón",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "829.0,841.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "You are listening to Latin American Press Review, a weekly roundup of news and events as seen by leading world newspapers with special emphasis on the Latin American Press. Our feature this week is an interview with Dr. David Barkin of Lehman College of City University of New York, discussing recent events in Chile.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Latin American Press Review",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introduction",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "841.0,864.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And about the role of the United States, in December, Salvador Allende denounced past aggressions of the United States economic interests against the Chilean people. Do you think intervention in Chile's affairs continues?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1167.0,1184.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Have recent events hurt Allende's popularity among the working class?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1315.0,1320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Will the Allende regime survive the current difficulties, and what do you foresee for the future?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allende",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1450.0,1457.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In view of your optimism for the future, what do you think about the rumors that Chile is on the brink of civil war?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1560.0,1567.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "txu-oclc-768426768-1973-21-mp3-canvas-1-speaker-1-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you, Dr. Barkin. We have been talking about recent events in Chile with Professor David Barkin of Lehman College City University of New York. You have been listening to Latin American Press Review, a weekly roundup of news and events in Latin America, as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the show are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, University of Texas at Austin.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chile",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1693.0,1738.0"
+        }
+      }
+    }
+  ]
+}
