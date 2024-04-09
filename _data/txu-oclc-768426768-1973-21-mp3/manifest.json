@@ -3,6 +3,14 @@
     "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "txu-oclc-768426768-1973-21.mp3" ] },
+    "homepage": [
+      {
+        "id": "https://utexas.app.box.com/file/1430033845303?s=rhv526hgnk17tluz7yrm8uf5ya7af59o",
+        "type": "Text",
+        "label": { "en": [ "txu-oclc-768426768-1973-21.mp3" ] },
+        "format": "text/html"
+      }
+    ],
     "items": [
       {
         "id": "https://rpr88.github.io/LAPR-74-21/txu-oclc-768426768-1973-21-mp3/canvas-1/canvas",
